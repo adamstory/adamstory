@@ -1,6 +1,7 @@
 ### Hi there, I'm Adam 👋
 
-##### 👀 - I’m keen to learn more about web accessibility, automating testing and front-end technologies
-##### 🌱 - I’m currently learning full-stack software engineering at School of Code
-##### ✨ - I’m excited to find my first role in tech and to keep learning
-##### 💬 - You can reach out to me via my website contact form or on Twitter
+##### 🌱 - I’m a full-stack Software Engineer at Elliptic
+##### 👀 - I specialise in creating web apps using React, TypeScript, Redux, Node.js and AWS
+##### 🤓 - You can ask me about testing, styled components, UI libraries and visual documentation with Storybook
+##### ✨ - I’m currently working towards the AWS Certified Developer certification
+##### 💬 - Check out my website in my bio for more info
